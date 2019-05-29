@@ -21,9 +21,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Contatos
 
-**Email: voitilaaraujo@gmail.com
+**Email: voitilaaraujo@gmail.com**
 
-**Celular: (11) 99977-2682
+**Celular: (11) 99977-2682**
 
-**Github: https://github.com/VivoDibra/
+**Github: https://github.com/VivoDibra/**
 
