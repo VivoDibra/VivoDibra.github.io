@@ -14,11 +14,11 @@ Conhecimentos em:
 - React native;
 - Metodologia ágil Scrum;
 
-### infos
+### Infos
 
-Idade: 20anos
+Idade: '20anos'
 
-Cidade: Jundiaí-SP
+Cidade: 'Jundiaí-SP'
 
 
 ### Contatos
