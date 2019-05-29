@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Meu Perfil
 
-You can use the [editor on GitHub](https://github.com/VivoDibra/Eyes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aluno de Análise e Desenvolvimento de Sistemas na Faculdade de Técnologia de Jundiaí.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Conhecimentos em Java, HTML5, CSS, PHP e Javascript, metodologia ágil Scrum, framework Reactjs e React native.
 
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
