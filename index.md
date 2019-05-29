@@ -2,9 +2,10 @@
 
 Aluno de Análise e Desenvolvimento de Sistemas na Faculdade de Técnologia de Jundiaí.
 
-Conhecimentos em Java, HTML5, CSS, PHP e Javascript, metodologia ágil Scrum, framework Reactjs e React native.
+Conhecimentos em Java, HTML5, CSS, PHP e Javascript.
+Metodologia ágil Scrum, framework Reactjs e React native.
 
-### 
+### oioioi
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
