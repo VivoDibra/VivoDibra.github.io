@@ -14,9 +14,11 @@ Conhecimentos em:
 - React native;
 - Metodologia ágil Scrum;
 
-### oioioi
+### infos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Idade: 20anos
+
+Cidade: Jundiaí-SP
 
 
 ### Contatos
