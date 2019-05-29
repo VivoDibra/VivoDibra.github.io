@@ -2,9 +2,17 @@
 
 Aluno de Análise e Desenvolvimento de Sistemas na Faculdade de Técnologia de Jundiaí.
 
-Conhecimentos em Java, HTML5, CSS, PHP e Javascript.
+Conhecimentos em:
 
-Metodologia ágil Scrum, framework Reactjs, React native e Nodejs.
+- Java;
+- HTML5; 
+- CSS;
+- PHP;
+- Javascript;
+- Reactjs;
+- React native;
+- Nodejs;
+- Metodologia ágil Scrum;
 
 ### oioioi
 
@@ -28,17 +36,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VivoDibra/Eyes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contatos
 
-*Email: voitilaaraujo@gmail.com*
+**Email: voitilaaraujo@gmail.com
 
-*Celular: (11) 99977-2682*
+**Celular: (11) 99977-2682
 
-*Github: https://github.com/VivoDibra/*
+**Github: https://github.com/VivoDibra/
 
