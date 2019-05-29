@@ -36,6 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contatos
 
-Email: voitilaaraujo@gmail.com
-Celular: (11) 99977-2682
-Github: https://github.com/VivoDibra/
+*Email: voitilaaraujo@gmail.com*
+
+*Celular: (11) 99977-2682*
+
+*Github: https://github.com/VivoDibra/*
+
