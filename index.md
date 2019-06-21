@@ -6,7 +6,7 @@ Conhecimentos em:
 
 - Java;
 - HTML5; 
-- CSS;
+- CSS3;
 - PHP;
 - Javascript;
 - Nodejs;
