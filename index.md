@@ -9,6 +9,7 @@ Conhecimentos em:
 - CSS3;
 - PHP;
 - Javascript;
+- SQL;
 - Nodejs;
 - Reactjs;
 - React native;
@@ -16,9 +17,9 @@ Conhecimentos em:
 
 ### Infos
 
-Idade: 20anos
+  Idade: 20anos
 
-Cidade: Jundiaí-SP
+  Cidade: Jundiaí-SP
 
 
 ### Contatos
@@ -27,5 +28,5 @@ Cidade: Jundiaí-SP
 
 **Celular: (11) 99977-2682**
 
-**Github: https://github.com/VivoDibra/**
+**Repositórios: https://github.com/VivoDibra/**
 
