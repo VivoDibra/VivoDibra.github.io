@@ -17,7 +17,7 @@ Conhecimentos em:
 
 ### Infos
 
-  Idade: 20anos
+  Idade: 21 anos
 
   Cidade: Jundiaí-SP
 
