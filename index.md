@@ -28,5 +28,5 @@ Conhecimentos em:
 
 **Celular: (11) 99977-2682**
 
-**Repositórios: https://github.com/VivoDibra/**
+**Repositórios: https://github.com/voitaraujo/**
 
